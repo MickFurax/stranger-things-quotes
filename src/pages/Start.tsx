@@ -22,9 +22,6 @@ const Start = () => {
         >
           Start
         </button>
-        <button className="text-white border border-white my-2 p-3 px-10 rounded-md ">
-          Other
-        </button>
       </div>
     </div>
   );
